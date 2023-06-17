@@ -1,0 +1,10 @@
+C:\Users\Mf4Tn\source\repos\Port Checker\Port Checker\bin\Debug\Port Checker.exe.config
+C:\Users\Mf4Tn\source\repos\Port Checker\Port Checker\bin\Debug\Port Checker.exe
+C:\Users\Mf4Tn\source\repos\Port Checker\Port Checker\bin\Debug\Port Checker.pdb
+C:\Users\Mf4Tn\source\repos\Port Checker\Port Checker\obj\Debug\Port Checker.csprojAssemblyReference.cache
+C:\Users\Mf4Tn\source\repos\Port Checker\Port Checker\obj\Debug\Port_Checker.Form1.resources
+C:\Users\Mf4Tn\source\repos\Port Checker\Port Checker\obj\Debug\Port_Checker.Properties.Resources.resources
+C:\Users\Mf4Tn\source\repos\Port Checker\Port Checker\obj\Debug\Port Checker.csproj.GenerateResource.cache
+C:\Users\Mf4Tn\source\repos\Port Checker\Port Checker\obj\Debug\Port Checker.csproj.CoreCompileInputs.cache
+C:\Users\Mf4Tn\source\repos\Port Checker\Port Checker\obj\Debug\Port Checker.exe
+C:\Users\Mf4Tn\source\repos\Port Checker\Port Checker\obj\Debug\Port Checker.pdb
