@@ -1,4 +1,4 @@
-                                                      - PortChecker - A Comprehensive Port Checking Tool -
+                                   - PortChecker - A Comprehensive Port Checking Tool -
                                                       
 PortChecker is a powerful and user-friendly tool designed to check the status of multiple ports within a given range. With its intuitive interface and robust functionality, PortChecker simplifies the process of verifying port accessibility on remote hosts or domains. This project provides an open-source solution that can be easily shared and customized to fit your specific requirements.
 
